@@ -12,7 +12,7 @@ export default function MyPortfolio() {
         <div>
           <Link
             style={{ textDecoration: "none" }}
-            to="https://github.com/somkantsharma39"
+            to="https://github.com/somkantsharma01"
             target="blank"
           >
             <button className="btn btn-github">
